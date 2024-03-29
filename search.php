@@ -35,7 +35,7 @@ get_header(); ?>
 			the_posts_navigation();
 
 		 else : ?>
-		 <div class="search-box">
+		<div class="search-box">
 		<!-- search start -->
 		<form class="s-search">
 			<i class="iconfont icon-search"></i>
